@@ -1,0 +1,9 @@
+.rdp {
+	--rdp-cell-size: 32px;
+	--rdp-caption-font-size: 17px;
+	--rdp-background-color: rgba(14, 133, 212, 0.774);
+	--rdp-accent-color: #e024c7;
+
+	@apply m-1;
+	font-size: 85%;
+}
