@@ -8,7 +8,7 @@ import {
 import { authService } from '@/services/auth.service'
 
 const options: CreateAxiosDefaults = {
-	// baseURL: 'http://localhost:3001/api',
+	// baseURL: 'http://localhost:4200/api',
 	baseURL: 'https://full-stack-taskboard-back-and.onrender.com/api',
 	headers: {
 		'Content-Type': 'application/json'
